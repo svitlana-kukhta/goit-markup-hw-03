@@ -22,12 +22,10 @@ p {margin-top: 0;
                     align-items: center;
                     justify-content: flex-start;
                     flex-direction: row;
-                    width: 1440;
-                    height: 72px;
-                    padding-top: 24px;
-                    padding-bottom: 24px;
-                    border-top: 1px solid #e7e9fc;
-                    margin: 0 15px 0 15px;}
+                    border-bottom: 1px solid #e7e9fc;}
+.container {width: 1158px;
+            margin: 0 auto;
+            padding: 0 15px 0 15px;}
 .navigation-content {display: flex;
                 flex-direction: row;
                 gap: 10px;
@@ -35,7 +33,6 @@ p {margin-top: 0;
                 align-items: center;
                 padding-top: 24px;
                 padding-bottom: 24px;}
-
 .studio {font-family: "Raleway", sans-serif;
         font-weight: 700;
         font-size: 18px;
